@@ -1,0 +1,12 @@
+pandas
+numpy
+matplotlib
+
+NOTE: The files 'model_training.py' uses scikit-learn and xgboost.
+
+While these packages caused issues in the current environment, include them
+
+here if you plan to run the full ML pipeline on a dedicated machine.
+
+scikit-learn
+xgboost
